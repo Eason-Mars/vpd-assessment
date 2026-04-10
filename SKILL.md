@@ -1,3 +1,7 @@
+---
+name: vpd-assessment
+description: Use when diagnosing a project's value proposition quality and business model strength using the Strategyzer VPD framework. Triggers: "does this product have a market?", "do customers really need this?", consulting project DD/feasibility, new project VP-market fit risk assessment.
+---
 # vpd-assessment — Value Proposition Diagnosis Framework
 Version: 1.1.0
 Authors: Eason Zhang, Mars
